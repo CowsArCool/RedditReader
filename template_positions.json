@@ -1,0 +1,124 @@
+{
+    "standard": {
+        "title": {
+            "filename": "standard_title.jpg",
+            "authorImgPosition": [
+                360,
+                310
+            ],
+            "authorImgRadius": 50,
+            "authorImgScale": 50,
+            "authorTextPosition": [
+                530,
+                340
+            ],
+            "authorFontSize": 50,
+            "authorFontFill": 14408667,
+            "textPosition": [
+                400,
+                480
+            ],
+            "textFontSize": 40,
+            "textFontFill": 14408667,
+            "textWrapCharacterLimit": 50,
+            "maxLinesInFrame": 7,
+            "score": {
+                "font": {
+                    "font": "verdana",
+                    "size": 35
+                },
+                "params": {
+                    "xy": [
+                        180,
+                        515
+                    ],
+                    "fill": 14408667
+                }
+            }
+        },
+        "comment": {
+            "filename": "standard_comment.jpg",
+            "authorImgPosition": [
+                100,
+                355
+            ],
+            "authorImgRadius": 50,
+            "authorImgScale": 25,
+            "authorTextPosition": [
+                180,
+                370
+            ],
+            "authorFontSize": 20,
+            "authorFontFill": 14408667,
+            "textPosition": [
+                110,
+                430
+            ],
+            "textFontSize": 40,
+            "textFontFill": 14408667,
+            "textWrapCharacterLimit": 70,
+            "maxLinesInFrame": 7
+        },
+        "transition": {
+            "transitionDir": "standard",
+            "transitionFramesNativeFPS": 20,
+            "transitionVolumeDelta": -25
+        },
+        "spacingTime": 0.5,
+        "fps": 20
+    },
+    "mobile": {
+        "title": {
+            "filename": "shorts_title.jpg",
+            "authorImgPosition": [
+                360,
+                310
+            ],
+            "authorTextPosition": [
+                530,
+                340
+            ],
+            "authorImgScale": 50,
+            "textPosition": [
+                400,
+                480
+            ],
+            "textWrapCharacterLimit": 50,
+            "frameMaxTextFill": 0.8,
+            "score": {
+                "font": {
+                    "font": "verdana",
+                    "size": 35
+                },
+                "params": {
+                    "xy": [
+                        180,
+                        515
+                    ],
+                    "fill": 14408667
+                }
+            }
+        },
+        "comment": {
+            "filename": "shorts_comment.jpg",
+            "authorImgPosition": [
+                100,
+                355
+            ],
+            "authorTextPosition": [
+                180,
+                370
+            ],
+            "authorImgScale": 25,
+            "textPosition": [
+                110,
+                430
+            ],
+            "textWrapCharacterLimit": 70,
+            "frameMaxTextFill": 0.9
+        },
+        "transitionDir": "standard",
+        "transitionFramesNativeFPS": 10,
+        "spacingTime": 0.5
+    }
+}
